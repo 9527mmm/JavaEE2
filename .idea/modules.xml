@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AutoRent/AutoRent.iml" filepath="$PROJECT_DIR$/AutoRent/AutoRent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InnerClass/InnerClass.iml" filepath="$PROJECT_DIR$/InnerClass/InnerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demanager/demanager.iml" filepath="$PROJECT_DIR$/demanager/demanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/import-test/import-test.iml" filepath="$PROJECT_DIR$/import-test/import-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ioStream/ioStream.iml" filepath="$PROJECT_DIR$/ioStream/ioStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mAPI/mAPI.iml" filepath="$PROJECT_DIR$/mAPI/mAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mAbstract/mAbstract.iml" filepath="$PROJECT_DIR$/mAbstract/mAbstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mExtends/mExtends.iml" filepath="$PROJECT_DIR$/mExtends/mExtends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mGather/mGather.iml" filepath="$PROJECT_DIR$/mGather/mGather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mInterface/mInterface.iml" filepath="$PROJECT_DIR$/mInterface/mInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mIterator/mIterator.iml" filepath="$PROJECT_DIR$/mIterator/mIterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadMoudle/threadMoudle.iml" filepath="$PROJECT_DIR$/threadMoudle/threadMoudle.iml" />
+    </modules>
+  </component>
+</project>
